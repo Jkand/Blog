@@ -3,5 +3,5 @@
 通过博客与外界交流
 
 # 博客分类
-1. u-boot 源码分析
-2. kernel 源码分析
+1. [u-boot 源码分析](https://github.com/Jkand/Blog/projects/2)
+2. [kernel 源码分析](https://github.com/Jkand/Blog/projects/1)
