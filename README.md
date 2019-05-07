@@ -7,3 +7,6 @@
 
 1. [u-boot 源码分析](https://github.com/Jkand/Blog/projects/2)
 2. [kernel 源码分析](https://github.com/Jkand/Blog/projects/1)
+3. [buildroot](https://github.com/Jkand/Blog/projects/3)
+4. [工具使用](https://github.com/Jkand/Blog/projects/4)
+5. [语言类](https://github.com/Jkand/Blog/projects/5)
